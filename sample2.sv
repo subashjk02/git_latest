@@ -1,0 +1,1 @@
+$display("Inside sample2 file");
